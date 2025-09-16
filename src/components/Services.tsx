@@ -12,13 +12,13 @@ const Services = () => {
       icon: FileText,
       title: "Дипломные работы",
       description: "Профессиональная подготовка дипломных проектов с защитой и презентацией",
-      price: "от 15000₽"
+      price: "от 8000₽"
     },
     {
       icon: Presentation,
       title: "Презентации",
       description: "Создание эффектных презентаций для защиты работ и выступлений",
-      price: "от 500₽"
+      price: "от 750₽"
     },
     {
       icon: Calculator,
